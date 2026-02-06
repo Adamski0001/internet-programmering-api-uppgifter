@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Server/Server.csproj" />
+  <Project Path="Klient/Klient.csproj" />
+  <Project Path="Uppgift2/Uppgift2.csproj" />
+</Solution>
